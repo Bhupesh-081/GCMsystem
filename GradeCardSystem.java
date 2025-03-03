@@ -10,7 +10,7 @@ class Student {
     private double average;
     private String grade;
 
-    public Student(String name, int rollNumber) {
+    public Student(String name, int rollNumber) {   
         this.name = name;
         this.rollNumber = rollNumber;
         this.marks = new ArrayList<>();

@@ -22,7 +22,7 @@ public class project {
         frame.add(panel);
 
         placeComponents(panel);
-         Color color = new Color(0, 255, 0);
+         Color color = new Color(0, 0, 255);
         panel.setBackground(color); // Set background color
         // Set frame visibility
         frame.setVisible(true);
